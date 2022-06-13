@@ -46,7 +46,7 @@
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
+                I would highly recommend Digital. I worked with the team on
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
@@ -63,7 +63,7 @@
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
+                I would highly recommend Digital. I worked with the team on
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
@@ -80,7 +80,7 @@
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
+                I would highly recommend Digital. I worked with the team on
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
@@ -97,7 +97,7 @@
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
+                I would highly recommend Digital. I worked with the team on
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>

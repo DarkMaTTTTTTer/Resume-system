@@ -5,14 +5,14 @@
         <div class="col-lg-5 valign">
           <div class="content wow fadeInUp md-mb30" data-wow-delay=".5s">
             <div class="sub-title">
-              <h6>Our Staff</h6>
+              <h6>Who I work With</h6>
               <span></span>
               <span></span>
               <span></span>
             </div>
-            <h3 class="co-tit mb-15">We help to create visual strategies.</h3>
+            <h3 class="co-tit mb-15">My team that helps me.</h3>
             <p>
-              We are Vie. We create award-winning websites, remarkable brands
+              I am Dimitri Shepherd. I create award-winning websites, remarkable brands
               and cutting-edge apps.Nullam imperdie.
             </p>
             <div class="skills-box mt-40">

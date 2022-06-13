@@ -36,7 +36,7 @@
               </div>
               <div class="valign">
                 <p class="fz-20 fw-200">
-                  I would highly recommend Vie Digital. I worked with the team
+                  I would highly recommend Digital. I worked with the team
                   on an animation for our &apos;Click &amp; Collect&apos;
                   service.
                 </p>
@@ -56,7 +56,7 @@
               </div>
               <div class="valign">
                 <p class="fz-20 fw-200">
-                  I would highly recommend Vie Digital. I worked with the team
+                  I would highly recommend Digital. I worked with the team
                   on an animation for our &apos;Click &amp; Collect&apos;
                   service.
                 </p>
@@ -76,7 +76,7 @@
               </div>
               <div class="valign">
                 <p class="fz-20 fw-200">
-                  I would highly recommend Vie Digital. I worked with the team
+                  I would highly recommend Digital. I worked with the team
                   on an animation for our &apos;Click &amp; Collect&apos;
                   service.
                 </p>
@@ -96,7 +96,7 @@
               </div>
               <div class="valign">
                 <p class="fz-20 fw-200">
-                  I would highly recommend Vie Digital. I worked with the team
+                  I would highly recommend Digital. I worked with the team
                   on an animation for our &apos;Click &amp; Collect&apos;
                   service.
                 </p>

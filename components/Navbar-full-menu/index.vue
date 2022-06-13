@@ -261,7 +261,7 @@
               <div class="item">
                 <h6>Email :</h6>
                 <p>
-                  <a href="#0">Vie_website@gmail.com</a>
+                  <a href="#0">_Viewebsite@gmail.com</a>
                 </p>
               </div>
             </div>

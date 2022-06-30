@@ -5,17 +5,17 @@
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
   },
+  "AboutUs4": {
+    "description": "Auto imported from components/About-us4/index.vue"
+  },
   "AboutUs2": {
     "description": "Auto imported from components/About-us2/index.vue"
-  },
-  "AboutUs3": {
-    "description": "Auto imported from components/About-us3/index.vue"
   },
   "AboutUs5": {
     "description": "Auto imported from components/About-us5/index.vue"
   },
-  "AboutUs4": {
-    "description": "Auto imported from components/About-us4/index.vue"
+  "AboutUs3": {
+    "description": "Auto imported from components/About-us3/index.vue"
   },
   "AboutUs6": {
     "description": "Auto imported from components/About-us6/index.vue"
@@ -53,20 +53,20 @@
   "Clients1": {
     "description": "Auto imported from components/Clients1/index.vue"
   },
+  "Clients2": {
+    "description": "Auto imported from components/Clients2/index.vue"
+  },
   "ContactArcho": {
     "description": "Auto imported from components/Contact-archo/index.vue"
   },
   "ContactForm": {
     "description": "Auto imported from components/Contact-form/index.vue"
   },
-  "Clients2": {
-    "description": "Auto imported from components/Clients2/index.vue"
+  "ContactHeader": {
+    "description": "Auto imported from components/Contact-header/index.vue"
   },
   "Footer": {
     "description": "Auto imported from components/Footer/index.vue"
-  },
-  "ContactHeader": {
-    "description": "Auto imported from components/Contact-header/index.vue"
   },
   "FooterArch": {
     "description": "Auto imported from components/Footer-arch/index.vue"
@@ -74,11 +74,11 @@
   "FreelancreIntro": {
     "description": "Auto imported from components/Freelancre-intro/index.vue"
   },
-  "FullScreenCircleSlide": {
-    "description": "Auto imported from components/FullScreen-circle-slide/index.vue"
-  },
   "FullTestimonials": {
     "description": "Auto imported from components/Full-testimonials/index.vue"
+  },
+  "FullScreenCircleSlide": {
+    "description": "Auto imported from components/FullScreen-circle-slide/index.vue"
   },
   "FunFacts1": {
     "description": "Auto imported from components/Fun-facts1/index.vue"
@@ -92,11 +92,14 @@
   "Intro2": {
     "description": "Auto imported from components/Intro2/index.vue"
   },
+  "Intro3": {
+    "description": "Auto imported from components/Intro3/index.vue"
+  },
   "Intro4": {
     "description": "Auto imported from components/Intro4/index.vue"
   },
-  "Intro3": {
-    "description": "Auto imported from components/Intro3/index.vue"
+  "Intro5": {
+    "description": "Auto imported from components/Intro5/index.vue"
   },
   "LatestNews": {
     "description": "Auto imported from components/Latest-news/index.vue"
@@ -113,14 +116,14 @@
   "ModalVideo": {
     "description": "Auto imported from components/Modal-video/index.vue"
   },
-  "Intro5": {
-    "description": "Auto imported from components/Intro5/index.vue"
-  },
   "MouseCursor": {
     "description": "Auto imported from components/Mouse-cursor/index.vue"
   },
   "Navbar": {
     "description": "Auto imported from components/Navbar/index.vue"
+  },
+  "NavbarArch": {
+    "description": "Auto imported from components/navbar-arch/index.vue"
   },
   "NavbarFullMenu": {
     "description": "Auto imported from components/Navbar-full-menu/index.vue"
@@ -134,11 +137,11 @@
   "PagesHeader": {
     "description": "Auto imported from components/Pages-header/index.vue"
   },
-  "ProjectDescription": {
-    "description": "Auto imported from components/Project-description/index.vue"
-  },
   "Portfolio": {
     "description": "Auto imported from components/Portfolio/index.vue"
+  },
+  "ProjectDescription": {
+    "description": "Auto imported from components/Project-description/index.vue"
   },
   "ProjectDetails2Header": {
     "description": "Auto imported from components/Project-details2-header/index.vue"
@@ -229,8 +232,5 @@
   },
   "Works6": {
     "description": "Auto imported from components/Works6/index.vue"
-  },
-  "NavbarArch": {
-    "description": "Auto imported from components/navbar-arch/index.vue"
   }
 }

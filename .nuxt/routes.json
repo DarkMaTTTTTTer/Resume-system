@@ -2,259 +2,302 @@
   {
     "name": "about-about-dark",
     "path": "/about/about-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/about/about-dark.vue",
-    "chunkName": "pages/about/about-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\about\\\\about-dark.vue",
+    "chunkName": "pages/about/about-dark",
+    "_name": "_2e2f762b"
   },
   {
     "name": "about-about-light",
     "path": "/about/about-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/about/about-light.vue",
-    "chunkName": "pages/about/about-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\about\\\\about-light.vue",
+    "chunkName": "pages/about/about-light",
+    "_name": "_31a2d131"
   },
   {
     "name": "blog-details-blog-details-dark",
     "path": "/blog-details/blog-details-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-details/blog-details-dark.vue",
-    "chunkName": "pages/blog-details/blog-details-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
+    "chunkName": "pages/blog-details/blog-details-dark",
+    "_name": "_5739485d"
   },
   {
     "name": "blog-details-blog-details-light",
     "path": "/blog-details/blog-details-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-details/blog-details-light.vue",
-    "chunkName": "pages/blog-details/blog-details-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-details\\\\blog-details-light.vue",
+    "chunkName": "pages/blog-details/blog-details-light",
+    "_name": "_29d3453f"
   },
   {
     "name": "blog-grid-blog-grid-dark",
     "path": "/blog-grid/blog-grid-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-grid/blog-grid-dark.vue",
-    "chunkName": "pages/blog-grid/blog-grid-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
+    "chunkName": "pages/blog-grid/blog-grid-dark",
+    "_name": "_7fa8522b"
   },
   {
     "name": "blog-grid-blog-grid-light",
     "path": "/blog-grid/blog-grid-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-grid/blog-grid-light.vue",
-    "chunkName": "pages/blog-grid/blog-grid-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
+    "chunkName": "pages/blog-grid/blog-grid-light",
+    "_name": "_0f457531"
   },
   {
     "name": "blog-list-blog-list-dark",
     "path": "/blog-list/blog-list-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-list/blog-list-dark.vue",
-    "chunkName": "pages/blog-list/blog-list-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
+    "chunkName": "pages/blog-list/blog-list-dark",
+    "_name": "_5390b92b"
   },
   {
     "name": "blog-list-blog-list-light",
     "path": "/blog-list/blog-list-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog-list/blog-list-light.vue",
-    "chunkName": "pages/blog-list/blog-list-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog-list\\\\blog-list-light.vue",
+    "chunkName": "pages/blog-list/blog-list-light",
+    "_name": "_8f2c239e"
   },
   {
     "name": "blog-blog-dark",
     "path": "/blog/blog-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog/blog-dark.vue",
-    "chunkName": "pages/blog/blog-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog\\\\blog-dark.vue",
+    "chunkName": "pages/blog/blog-dark",
+    "_name": "_43b4e572"
   },
   {
     "name": "blog-blog-light",
     "path": "/blog/blog-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/blog/blog-light.vue",
-    "chunkName": "pages/blog/blog-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\blog\\\\blog-light.vue",
+    "chunkName": "pages/blog/blog-light",
+    "_name": "_ff20c4d6"
   },
   {
     "name": "contact-contact-dark",
     "path": "/contact/contact-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/contact/contact-dark.vue",
-    "chunkName": "pages/contact/contact-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\contact\\\\contact-dark.vue",
+    "chunkName": "pages/contact/contact-dark",
+    "_name": "_76c3d4ea"
   },
   {
     "name": "contact-contact-light",
     "path": "/contact/contact-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/contact/contact-light.vue",
-    "chunkName": "pages/contact/contact-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\contact\\\\contact-light.vue",
+    "chunkName": "pages/contact/contact-light",
+    "_name": "_69081dd1"
   },
   {
     "name": "homepage-home1-dark",
     "path": "/homepage/home1-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home1-dark.vue",
-    "chunkName": "pages/homepage/home1-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home1-dark.vue",
+    "chunkName": "pages/homepage/home1-dark",
+    "_name": "_36b70632"
   },
   {
     "name": "homepage-home1-light",
     "path": "/homepage/home1-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home1-light.vue",
-    "chunkName": "pages/homepage/home1-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home1-light.vue",
+    "chunkName": "pages/homepage/home1-light",
+    "_name": "_49cea1f5"
   },
   {
     "name": "homepage-home2-dark",
     "path": "/homepage/home2-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home2-dark.vue",
-    "chunkName": "pages/homepage/home2-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home2-dark.vue",
+    "chunkName": "pages/homepage/home2-dark",
+    "_name": "_4e2423f4"
   },
   {
     "name": "homepage-home2-light",
     "path": "/homepage/home2-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home2-light.vue",
-    "chunkName": "pages/homepage/home2-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home2-light.vue",
+    "chunkName": "pages/homepage/home2-light",
+    "_name": "_42995694"
   },
   {
     "name": "homepage-home3-dark",
     "path": "/homepage/home3-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home3-dark.vue",
-    "chunkName": "pages/homepage/home3-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home3-dark.vue",
+    "chunkName": "pages/homepage/home3-dark",
+    "_name": "_659141b6"
   },
   {
     "name": "homepage-home3-light",
     "path": "/homepage/home3-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home3-light.vue",
-    "chunkName": "pages/homepage/home3-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home3-light.vue",
+    "chunkName": "pages/homepage/home3-light",
+    "_name": "_73980777"
   },
   {
     "name": "homepage-home4-dark",
     "path": "/homepage/home4-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home4-dark.vue",
-    "chunkName": "pages/homepage/home4-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "chunkName": "pages/homepage/home4-dark",
+    "_name": "_7cfe5f78"
   },
   {
     "name": "homepage-home4-light",
     "path": "/homepage/home4-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home4-light.vue",
-    "chunkName": "pages/homepage/home4-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home4-light.vue",
+    "chunkName": "pages/homepage/home4-light",
+    "_name": "_087cba38"
   },
   {
     "name": "homepage-home5-dark",
     "path": "/homepage/home5-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home5-dark.vue",
-    "chunkName": "pages/homepage/home5-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home5-dark.vue",
+    "chunkName": "pages/homepage/home5-dark",
+    "_name": "_946b7d3a"
   },
   {
     "name": "homepage-home5-light",
     "path": "/homepage/home5-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home5-light.vue",
-    "chunkName": "pages/homepage/home5-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home5-light.vue",
+    "chunkName": "pages/homepage/home5-light",
+    "_name": "_c53d260e"
   },
   {
     "name": "homepage-home6-dark",
     "path": "/homepage/home6-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home6-dark.vue",
-    "chunkName": "pages/homepage/home6-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home6-dark.vue",
+    "chunkName": "pages/homepage/home6-dark",
+    "_name": "_abd89afc"
   },
   {
     "name": "homepage-home6-light",
     "path": "/homepage/home6-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home6-light.vue",
-    "chunkName": "pages/homepage/home6-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home6-light.vue",
+    "chunkName": "pages/homepage/home6-light",
+    "_name": "_32461fba"
   },
   {
     "name": "homepage-home7-dark",
     "path": "/homepage/home7-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home7-dark.vue",
-    "chunkName": "pages/homepage/home7-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home7-dark.vue",
+    "chunkName": "pages/homepage/home7-dark",
+    "_name": "_c345b8be"
   },
   {
     "name": "homepage-home7-light",
     "path": "/homepage/home7-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home7-light.vue",
-    "chunkName": "pages/homepage/home7-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home7-light.vue",
+    "chunkName": "pages/homepage/home7-light",
+    "_name": "_71aa5b0a"
   },
   {
     "name": "homepage-home8-dark",
     "path": "/homepage/home8-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home8-dark.vue",
-    "chunkName": "pages/homepage/home8-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home8-dark.vue",
+    "chunkName": "pages/homepage/home8-dark",
+    "_name": "_dab2d680"
   },
   {
     "name": "homepage-home8-light",
     "path": "/homepage/home8-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/homepage/home8-light.vue",
-    "chunkName": "pages/homepage/home8-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\homepage\\\\home8-light.vue",
+    "chunkName": "pages/homepage/home8-light",
+    "_name": "_5c0f853c"
   },
   {
     "name": "project-details2-project-details2-dark",
     "path": "/project-details2/project-details2-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/project-details2/project-details2-dark.vue",
-    "chunkName": "pages/project-details2/project-details2-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
+    "chunkName": "pages/project-details2/project-details2-dark",
+    "_name": "_cd5c487a"
   },
   {
     "name": "project-details2-project-details2-light",
     "path": "/project-details2/project-details2-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/project-details2/project-details2-light.vue",
-    "chunkName": "pages/project-details2/project-details2-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\project-details2\\\\project-details2-light.vue",
+    "chunkName": "pages/project-details2/project-details2-light",
+    "_name": "_2acd1e99"
   },
   {
     "name": "showcase-showcase-dark",
     "path": "/showcase/showcase-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase/showcase-dark.vue",
-    "chunkName": "pages/showcase/showcase-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase\\\\showcase-dark.vue",
+    "chunkName": "pages/showcase/showcase-dark",
+    "_name": "_b616de9e"
   },
   {
     "name": "showcase-showcase-light",
     "path": "/showcase/showcase-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase/showcase-light.vue",
-    "chunkName": "pages/showcase/showcase-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase\\\\showcase-light.vue",
+    "chunkName": "pages/showcase/showcase-light",
+    "_name": "_d8fdf12a"
   },
   {
     "name": "showcase2-showcase2-dark",
     "path": "/showcase2/showcase2-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase2/showcase2-dark.vue",
-    "chunkName": "pages/showcase2/showcase2-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
+    "chunkName": "pages/showcase2/showcase2-dark",
+    "_name": "_7e34f2aa"
   },
   {
     "name": "showcase2-showcase2-light",
     "path": "/showcase2/showcase2-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase2/showcase2-light.vue",
-    "chunkName": "pages/showcase2/showcase2-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase2\\\\showcase2-light.vue",
+    "chunkName": "pages/showcase2/showcase2-light",
+    "_name": "_14a25e9e"
   },
   {
     "name": "showcase3-showcase3-dark",
     "path": "/showcase3/showcase3-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase3/showcase3-dark.vue",
-    "chunkName": "pages/showcase3/showcase3-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
+    "chunkName": "pages/showcase3/showcase3-dark",
+    "_name": "_7c70256a"
   },
   {
     "name": "showcase3-showcase3-light",
     "path": "/showcase3/showcase3-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/showcase3/showcase3-light.vue",
-    "chunkName": "pages/showcase3/showcase3-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\showcase3\\\\showcase3-light.vue",
+    "chunkName": "pages/showcase3/showcase3-light",
+    "_name": "_11193e11"
   },
   {
     "name": "works-works-dark",
     "path": "/works/works-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works/works-dark.vue",
-    "chunkName": "pages/works/works-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works\\\\works-dark.vue",
+    "chunkName": "pages/works/works-dark",
+    "_name": "_48c20fcb"
   },
   {
     "name": "works-works-light",
     "path": "/works/works-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works/works-light.vue",
-    "chunkName": "pages/works/works-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works\\\\works-light.vue",
+    "chunkName": "pages/works/works-light",
+    "_name": "_69636b91"
   },
   {
     "name": "works2-works2-dark",
     "path": "/works2/works2-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works2/works2-dark.vue",
-    "chunkName": "pages/works2/works2-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works2\\\\works2-dark.vue",
+    "chunkName": "pages/works2/works2-dark",
+    "_name": "_1dbfc8ab"
   },
   {
     "name": "works2-works2-light",
     "path": "/works2/works2-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works2/works2-light.vue",
-    "chunkName": "pages/works2/works2-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works2\\\\works2-light.vue",
+    "chunkName": "pages/works2/works2-light",
+    "_name": "_341cceb1"
   },
   {
     "name": "works3-works3-dark",
     "path": "/works3/works3-dark",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works3/works3-dark.vue",
-    "chunkName": "pages/works3/works3-dark"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works3\\\\works3-dark.vue",
+    "chunkName": "pages/works3/works3-dark",
+    "_name": "_52c9c82e"
   },
   {
     "name": "works3-works3-light",
     "path": "/works3/works3-light",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/works3/works3-light.vue",
-    "chunkName": "pages/works3/works3-light"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\works3\\\\works3-light.vue",
+    "chunkName": "pages/works3/works3-light",
+    "_name": "_d2a8399a"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/darkermatter/Documents/Github-Projects/Resume-system/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "E:\\\\Code\\\\GitHub\\\\Resume-system\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3015138c"
   }
 ]

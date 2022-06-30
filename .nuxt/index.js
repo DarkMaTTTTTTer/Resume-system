@@ -12,13 +12,13 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_d93135d4 from 'nuxt_plugin_plugin_d93135d4' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_vuescrollto_8228c946 from 'nuxt_plugin_vuescrollto_8228c946' // Source: ./vue-scrollto.js (mode: 'client')
-import nuxt_plugin_particles_1e1352c0 from 'nuxt_plugin_particles_1e1352c0' // Source: ../plugins/particles.js (mode: 'all')
-import nuxt_plugin_vueAwesomeSwiper_282933cc from 'nuxt_plugin_vueAwesomeSwiper_282933cc' // Source: ../plugins/vueAwesomeSwiper.js (mode: 'all')
-import nuxt_plugin_vueSlickCarousel_c20e2362 from 'nuxt_plugin_vueSlickCarousel_c20e2362' // Source: ../plugins/vueSlickCarousel.js (mode: 'all')
-import nuxt_plugin_vueEllipseProgress_6ae57c5c from 'nuxt_plugin_vueEllipseProgress_6ae57c5c' // Source: ../plugins/vueEllipseProgress.js (mode: 'client')
-import nuxt_plugin_vueTyper_62ae74ef from 'nuxt_plugin_vueTyper_62ae74ef' // Source: ../plugins/vueTyper.js (mode: 'client')
+import nuxt_plugin_plugin_407cf01e from 'nuxt_plugin_plugin_407cf01e' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_vuescrollto_b9048c16 from 'nuxt_plugin_vuescrollto_b9048c16' // Source: .\\vue-scrollto.js (mode: 'client')
+import nuxt_plugin_particles_1e1352c0 from 'nuxt_plugin_particles_1e1352c0' // Source: ..\\plugins\\particles.js (mode: 'all')
+import nuxt_plugin_vueAwesomeSwiper_282933cc from 'nuxt_plugin_vueAwesomeSwiper_282933cc' // Source: ..\\plugins\\vueAwesomeSwiper.js (mode: 'all')
+import nuxt_plugin_vueSlickCarousel_c20e2362 from 'nuxt_plugin_vueSlickCarousel_c20e2362' // Source: ..\\plugins\\vueSlickCarousel.js (mode: 'all')
+import nuxt_plugin_vueEllipseProgress_6ae57c5c from 'nuxt_plugin_vueEllipseProgress_6ae57c5c' // Source: ..\\plugins\\vueEllipseProgress.js (mode: 'client')
+import nuxt_plugin_vueTyper_62ae74ef from 'nuxt_plugin_vueTyper_62ae74ef' // Source: ..\\plugins\\vueTyper.js (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -182,12 +182,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_d93135d4 === 'function') {
-    await nuxt_plugin_plugin_d93135d4(app.context, inject)
+  if (typeof nuxt_plugin_plugin_407cf01e === 'function') {
+    await nuxt_plugin_plugin_407cf01e(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_vuescrollto_8228c946 === 'function') {
-    await nuxt_plugin_vuescrollto_8228c946(app.context, inject)
+  if (process.client && typeof nuxt_plugin_vuescrollto_b9048c16 === 'function') {
+    await nuxt_plugin_vuescrollto_b9048c16(app.context, inject)
   }
 
   if (typeof nuxt_plugin_particles_1e1352c0 === 'function') {

@@ -6,10 +6,10 @@ import NuxtError from './components/nuxt-error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
-const _37768f57 = () => import('../layouts/arch-dark.vue'  /* webpackChunkName: "layouts/arch-dark" */).then(m => sanitizeComponent(m.default || m))
-const _9060dd56 = () => import('../layouts/arch-light.vue'  /* webpackChunkName: "layouts/arch-light" */).then(m => sanitizeComponent(m.default || m))
-const _2d22906c = () => import('../layouts/dark.vue'  /* webpackChunkName: "layouts/dark" */).then(m => sanitizeComponent(m.default || m))
-const _77a3b2e0 = () => import('../layouts/light.vue'  /* webpackChunkName: "layouts/light" */).then(m => sanitizeComponent(m.default || m))
+const _37768f57 = () => import('..\\layouts\\arch-dark.vue'  /* webpackChunkName: "layouts/arch-dark" */).then(m => sanitizeComponent(m.default || m))
+const _9060dd56 = () => import('..\\layouts\\arch-light.vue'  /* webpackChunkName: "layouts/arch-light" */).then(m => sanitizeComponent(m.default || m))
+const _2d22906c = () => import('..\\layouts\\dark.vue'  /* webpackChunkName: "layouts/dark" */).then(m => sanitizeComponent(m.default || m))
+const _77a3b2e0 = () => import('..\\layouts\\light.vue'  /* webpackChunkName: "layouts/light" */).then(m => sanitizeComponent(m.default || m))
 const _6f6c098b = () => import('./layouts/default.vue'  /* webpackChunkName: "layouts/default" */).then(m => sanitizeComponent(m.default || m))
 
 let resolvedLayouts = {}

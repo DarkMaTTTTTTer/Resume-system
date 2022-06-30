@@ -5,17 +5,17 @@
   "AboutUs1": {
     "description": "Auto imported from components/About-us1/index.vue"
   },
-  "AboutUs4": {
-    "description": "Auto imported from components/About-us4/index.vue"
-  },
   "AboutUs2": {
     "description": "Auto imported from components/About-us2/index.vue"
   },
-  "AboutUs5": {
-    "description": "Auto imported from components/About-us5/index.vue"
+  "AboutUs4": {
+    "description": "Auto imported from components/About-us4/index.vue"
   },
   "AboutUs3": {
     "description": "Auto imported from components/About-us3/index.vue"
+  },
+  "AboutUs5": {
+    "description": "Auto imported from components/About-us5/index.vue"
   },
   "AboutUs6": {
     "description": "Auto imported from components/About-us6/index.vue"
@@ -35,20 +35,20 @@
   "Blogs1": {
     "description": "Auto imported from components/Blogs1/index.vue"
   },
+  "Blogs3": {
+    "description": "Auto imported from components/Blogs3/index.vue"
+  },
   "Blogs2": {
     "description": "Auto imported from components/Blogs2/index.vue"
   },
-  "Blogs3": {
-    "description": "Auto imported from components/Blogs3/index.vue"
+  "CaseStudy": {
+    "description": "Auto imported from components/Case-study/index.vue"
   },
   "Blogs4": {
     "description": "Auto imported from components/Blogs4/index.vue"
   },
   "CallToAction": {
     "description": "Auto imported from components/Call-to-action/index.vue"
-  },
-  "CaseStudy": {
-    "description": "Auto imported from components/Case-study/index.vue"
   },
   "Clients1": {
     "description": "Auto imported from components/Clients1/index.vue"

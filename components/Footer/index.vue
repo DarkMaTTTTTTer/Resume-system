@@ -11,7 +11,7 @@
               <li>
                 <span class="icon pe-7s-map-marker"></span>
                 <div class="cont">
-                  <h6>Officeal Address</h6>
+                  <h6>Offical Address</h6>
                   <p>355 Talus Way, Reno NV</p>
                 </div>
               </li>
@@ -80,21 +80,21 @@
         <div class="col-lg-4">
           <div class="item">
             <div class="logo">
-              <img src="/img/logo-light.png" alt="logo" />
+              <img src="/img/favicon.ico" alt="logo" />
             </div>
             <div class="social">
-              <NuxtLink to="github">
+              <a href="https://github.com/DarkMaTTTTTTer" target="_blank">
                 <i class="fab fa-github"></i>
-              </NuxtLink>
-              <NuxtLink to="twitter">
+              </a>
+              <a href="https://twitter.com/matter_darker" target="_blank">
                 <i class="fab fa-twitter"></i>
-              </NuxtLink>
-              <NuxtLink to="instagram">
+              </a>
+              <a href="https://instagram.com/matter_darker" target="_blank">
                 <i class="fab fa-instagram"></i>
-              </NuxtLink>
-              <NuxtLink to="youtube">
+              </a>
+              <a href="https://www.youtube.com/channel/UCEqDDNdcqZxSO2tKYWvPVSg" target="_blank">
                 <i class="fab fa-youtube"></i>
-              </NuxtLink>
+              </a>
             </div>
             <div class="copy-right">
               <p>

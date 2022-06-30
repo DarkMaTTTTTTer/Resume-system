@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Vie ",
+    title: "Dimitri Shepherd ",
     htmlAttrs: {
       lang: "en",
     },
@@ -11,12 +11,12 @@ export default {
       {
         hid: "keywords",
         name: "keywords",
-        content: "Nuxtjs Vue Template vie onepage themeforest",
+        content: "Dimitri Shepherd",
       },
       {
         hid: "description",
         name: "description",
-        content: "vie - Onepage Multi-Purpose Vue Nuxtjs Template",
+        content: "Dimitri Shepherd - Custom templates",
       },
       { name: "format-detection", content: "telephone=no" },
     ],
